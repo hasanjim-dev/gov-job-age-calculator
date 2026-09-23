@@ -1,16 +1,64 @@
-# React + Vite
+# Government Job Age Calculator 🇧🇩
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web-based Government Job Age Calculator designed to help users calculate their age and check government job age eligibility in Bangladesh.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Calculate current age using date of birth
+* Check government job age eligibility
+* Calculate age in years, months, and days
+* User-friendly interface
+* Responsive design for desktop and mobile
+* Easy-to-use age calculation system
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Vite
 
-## Expanding the ESLint configuration
+## 📌 Project Purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The purpose of this project is to create a simple and useful tool that helps people in Bangladesh calculate their age and understand government job age eligibility requirements.
+
+## 💻 How to Run the Project
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/gov-job-age-calculator.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd gov-job-age-calculator
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL shown in the terminal.
+
+## 👨‍💻 Author
+
+**Hasan Jim**
+
+Software Engineering Student
+
+GitHub: https://github.com/YOUR_USERNAME
+
+## 📄 License
+
+This project is created for educational and personal project purposes.
