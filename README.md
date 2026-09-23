@@ -36,7 +36,7 @@ This project was developed as a practical web development project to improve ski
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gov-job-age-calculator.git
+git clone https://github.com/hasanjim-dev/gov-job-age-calculator.git
 ```
 
 ### 2. Open the project folder
@@ -65,18 +65,13 @@ Open the URL shown in the terminal, usually:
 http://localhost:5173
 ```
 
-## 📷 Screenshots
-
-You can add screenshots of the calculator here to show how the application looks.
-
 ## 👨‍💻 Author
 
-**Hasan Jim**
+**Muntasir Hasan Jim**
 
 Software Engineering Student
 
-GitHub: https://github.com/YOUR_USERNAME
-
+GitHub: https://github.com/hasanjim-dev
 ## 📄 License
 
 This project is created for educational and personal project purposes.
